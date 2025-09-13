@@ -85,3 +85,19 @@ Exercícios realizados na disciplina de Análise de Algoritmos no 8º Período d
                           {1, 1, 0, 0}, 
                           {0, 0, 0, 0}}
     Saída: Sim
+
+### Guloso
+
+#### 1. Troco mínimo dado
+
+    Descrição: um valor de troco e um conjunto de denominações de moedas, determine o menor número de moedas necessárias para fornecer o troco
+
+    - Entrada: Valor inteiro V e um conjunto de denominações de moedas {1,5,10,25,50,100}
+    - Saída: O número mínimo de moedas
+
+#### 2. Atividades compatíveis
+
+    Descrição: Dado um conjunto de atividades, cada uma com um horário de início e de término, selecione o máximo número de atividades que podem ser realizadas sem sobreposição de tempo
+
+    - Entrada: Lista de atividades com nome, horário de início e de término
+    - Saída: O número máximo de atividades que podem ser selecionadas sem que nenhuma delas tenha sobreposição
