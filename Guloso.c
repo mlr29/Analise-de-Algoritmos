@@ -60,11 +60,8 @@ int numeroMaximoAtividades(TAtividade *atividades, int n, int iAtividades[]){
     {
         atividadeAtual = atividades[i];
         
-        printf("\natividadeatual %s: i:%d f:%d", atividadeAtual.nome,atividadeAtual.hInicio,atividadeAtual.hFim );
         for (int j = i + 1; j < n; j++)
         {
-            printf("\natividades[i] %s: i:%d f:%d", atividades[j].nome,atividades[j].hInicio,atividades[j].hFim );
-             printf("\nnAtvd: %d", nAtividades);
             if ((atividadeAtual.hFim > atividades[j].hInicio) && iAtividades[j] == 1)
             {
                 nAtividades--;
