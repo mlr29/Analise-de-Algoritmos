@@ -101,3 +101,9 @@ Exercícios realizados na disciplina de Análise de Algoritmos no 8º Período d
 
     - Entrada: Lista de atividades com nome, horário de início e de término
     - Saída: O número máximo de atividades que podem ser selecionadas sem que nenhuma delas tenha sobreposição
+
+### Merge Sort
+
+    Implementação do algoritmo de ordenação merge sort.
+
+    Complexidade: O(n * log n)
