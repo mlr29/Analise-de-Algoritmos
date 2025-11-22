@@ -107,3 +107,11 @@ Exercícios realizados na disciplina de Análise de Algoritmos no 8º Período d
     Implementação do algoritmo de ordenação merge sort.
 
     Complexidade: O(n * log n)
+
+## Trabalho Final
+
+- A pasta `trabalho-final/` contém o projeto final com:
+- `comparativo.c`, `Algoritmos.c`, `index.html`, `script.js` e `resultados.json`.
+- Documentação específica em `trabalho-final/README.md` com instruções de compilação, execução e visualização do gráfico.
+
+Consulte `trabalho-final/README.md` para detalhes e passos de execução do experimento.
